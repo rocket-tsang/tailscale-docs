@@ -7,3 +7,13 @@ npm-debug.log*
 .env
 .env.local
 .env.*.local
+
+dist/
+build/
+coverage/
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.bak

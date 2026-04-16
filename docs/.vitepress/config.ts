@@ -7,6 +7,8 @@ export default defineConfig({
   
   ignoreDeadLinks: true,
   
+  outDir: '../dist',
+  
   head: [
     ['meta', { name: 'theme-color', content: '#5c6bc0' }],
     ['meta', { name: 'og:type', content: 'website' }],
